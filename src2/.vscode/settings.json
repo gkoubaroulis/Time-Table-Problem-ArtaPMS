@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "list": "cpp"
+    },
+    "cppbuild.isEnabled": false,
+    "workbench.colorTheme": "Visual Studio Dark"
+}
